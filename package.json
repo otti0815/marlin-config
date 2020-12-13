@@ -79,7 +79,7 @@
     "moment": "^2.22.2",
     "nat-upnp": "git+https://github.com/MelvinTo/node-nat-upnp.git",
     "node-machine-id": "^1.1.10",
-    "node-notifier": "^5.2.1",
+    "node-notifier": "^9.0.0",
     "opn": "^5.3.0",
     "ot": "git+https://github.com/Operational-Transformation/ot.js.git",
     "platformio-node-helpers": "^0.5.2",
