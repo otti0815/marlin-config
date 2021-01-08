@@ -87,7 +87,7 @@
     "rtcmulticonnection-v3": "^3.4.4",
     "serialport": "=6.2.1",
     "simple-git": "^1.95.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^3.0.0",
     "swig-templates": "^2.0.2",
     "tether": "^1.4.4",
     "tmp": "0.0.33",
