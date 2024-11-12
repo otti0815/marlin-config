@@ -82,7 +82,7 @@
     "node-notifier": "^5.2.1",
     "opn": "^5.3.0",
     "ot": "git+https://github.com/Operational-Transformation/ot.js.git",
-    "platformio-node-helpers": "^0.5.2",
+    "platformio-node-helpers": "^9.6.0",
     "qr-image": "^3.2.0",
     "rtcmulticonnection-v3": "^3.4.4",
     "serialport": "=6.2.1",
